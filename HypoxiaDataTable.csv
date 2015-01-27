@@ -1,5 +1,5 @@
-# 2014-06-09 Hypoxic area data table
-# David Forrest <drf@vims.edu> 2014-06-09
+# 2015-01-27 Hypoxic area data table
+# David Forrest <drf@vims.edu> 2015-01-27
 #1985-2009 data as collected in Forrest, Hetland, DiMarco 2010 http://iopscience.iop.org/1748-9326/6/4/045002
 #2010 hypoxic area from http://www.gulfhypoxia.net/research/Shelfwide%20Cruises/2010/PressRelease2010.pdf
 #2011 hypoxic area from http://www.gulfhypoxia.net/research/Shelfwide%20Cruises/2011/PressRelease2011.pdf
@@ -8,6 +8,7 @@
 #2013 wind data based on limited June 15-25th wind observations
 #May 2013 discharge and concentration data from http://toxics.usgs.gov/hypoxia/mississippi/flux_ests/delivery/index.html 
 #Preliminary May 2014 discharge and concentration data from http://toxics.usgs.gov/hypoxia/mississippi/oct_jun/index.html
+# 2014 measured kmsq per http://www.gulfhypoxia.net/Research/Shelfwide%20Cruises/2014/Hypoxia_Press_Release_2014.pdf accessed 2015-01-27
 #Columns are:
 #  Year
 #  kmsq    Hypoxic area in km^2
@@ -49,4 +50,4 @@
 2011,17520,56700,181000,85.0907495590829,0.975988539286248,2.42812270051293,4.15980731831783,99.5799429972054,NA,NA,NA,NA,1.35021603045267,0.954227384787741,5.28232412331719,43.2079102752089,1.17,0.749999983236194,1,TRUE,"Storm2011"
 2012,7480,16200,61800,101.685796296296,-2.21694691190647,0.234483563628187,-18.1142707935527,305.97768937119,NA,NA,NA,NA,0.487518201363615,1.63289348670374,1.03792309639175,19.2901722927067,1.43,1.11999997496605,1,TRUE,"Baseline"
 2013,15120,38100,182000,127.330734908136,0.167685282523234,1.69434864474199,2.35078247476816,88.4932270383002,NA,NA,NA,NA,-1.1770809715121,1.33071020106574,-4.2853655196656,67.1117457551324,1.945,-0.749999983236194,1,TRUE,"Baseline"
-2014,NA,25500,101000,105.57668627451,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.51,NA,1,TRUE,"Baseline"
+2014,13080,25500,101000,105.57668627451,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.51,NA,1,TRUE,"Baseline"
